@@ -4,5 +4,5 @@ phpとRustでライプニッツを計算していた人がいたので、Javaで
 やってた人 >> https://github.com/aida0710/leibniz-pi-rust<br>
 <br>
 <h5>実行結果</h5>
-
+![実行結果](result.png "実行結果")
 
